@@ -1,4 +1,7 @@
 <!-- markdownlint-disable -->
+[![Discord Presence]([https://lanyard.cnrad.dev/api/705665813994012695](https://dprofile.secretrajatrepl.repl.co/?uid=754033245972201612&aboutme=Apple%20is%20good&badges=brilliance,boosting,nitrosubscriber&roles=009999:He/Him,ff8888:Developer))]
+
+
 # lanyard-profile-readme
 
 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
